@@ -17,4 +17,3 @@ if __name__ =='__main__':
   string = input("Enter a string: ") 
   str = sorted(string)                  #Sorts the string obtained
   print('Ans: ', max_occurence(str))
-  
